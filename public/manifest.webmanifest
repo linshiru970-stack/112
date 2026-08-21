@@ -1,0 +1,19 @@
+{
+  "name": "Everyday English · U01–U40",
+  "short_name": "Everyday English",
+  "description": "手機優先的英文學習、情境任務、錯題修復與間隔複習。",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f8fb",
+  "theme_color": "#3152d5",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
